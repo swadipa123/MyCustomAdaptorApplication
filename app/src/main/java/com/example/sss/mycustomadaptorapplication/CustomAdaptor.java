@@ -72,6 +72,7 @@ public class CustomAdaptor extends BaseAdapter{
         });
 
 
+
         return rowview;
     }
 }
